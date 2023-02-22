@@ -1,0 +1,14 @@
+.goal{
+    text-align: center;
+    
+}
+.goal>img{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 10px;   
+    margin-top: 10px;
+    border-radius: 2rem;
+    
+    }
+  
